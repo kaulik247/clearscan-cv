@@ -1,4 +1,4 @@
-# ClearScan CV — Command-Line Document Scanner
+# ClearScan CV: Command-Line Document Scanner
 
 ## Overview
 ClearScan CV is a small Computer Vision project that turns a photograph of a paper document into a perspective-corrected scan. It uses classical image-processing techniques: Gaussian blur, Canny edge detection, contour approximation, perspective transformation (homography), denoising, and adaptive thresholding.
